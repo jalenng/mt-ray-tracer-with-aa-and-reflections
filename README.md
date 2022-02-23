@@ -1,2 +1,10 @@
-# multithreaded-ray-tracer-with-aa-and-reflections
+# Multi-Threaded Ray Tracer w/ AA and Reflections
 SJSU CS 116A Fall 2021 Final Project
+
+This repository contains the source code for the ray-tracer I implemented in C++ with the [openFrameworks](https://openframeworks.cc/) toolkit
+. 
+## Video demonstration
+Click [here](https://photos.google.com/share/AF1QipOEs0AMgaAG-CiXq8diI9mO2CWGY4nXfHBK7_VtsLe1IBlnMLUrYHJD-OOO8zDpqw/photo/AF1QipMehiKZ2M9SILwxs0pELWECTPpzw_8gS_U05aac?key=cXNmQXR2UFRKNkx0amswU0Q2WjNzdERDb2czRTh3) to watch the video demonstration (5:36).
+
+## Poster board
+![Poster board](https://lh3.googleusercontent.com/hburIOLkWzowSSKEgxBX_xcxpMUTgUh70eAbbz40_624-N1kYKotsDxsavLuNsGmymiEwnmQ4RH_aNHl9hDHpy4VxhU55ASjSeVbBKF1ym0wK211A5xIhj4UKqVp5frUz5307sPXbFXA9qE5LuZTyPXcnnwb-45Yx6LSkGWbYYG6AfnKVFIFFia-YK4N2cuB_mr_v-LHZuzwj_g353e_12NFwZT_YmEaIzGyxTsO5oIUjb6StkZDhm2W5twMIcvuYT0WEBOeoRSu9MZIOAp4rLu5M7pVFoiE2GY-a3NH_wvewTQSgSAmtZ08176wkeb7G_1u32OgQY_qcQ2aj6Fha0NaxD70P3_zLixmZAYfk4_Hcln7STn8drTjSLXNkaV26s4yJpomYXpTN2SR7gyS2NAXOwtQm_w2mHjhRSdb0vXvHGtVAO5yH8JD7m6RK8u6-sb57crpUs-qjdT92n7IdwT_wP7oo1trDaTfMGhEfC2byvMTDWIuSCgBxDh8d1OhPzqZzuVHC58PGRMVFh4m4NxJ-FiLxOlPjlKmYia5rZ5v4JmJVTRXATqYfHeghRmpEPr1XB9tEIZP5X8DHtqOjV6HQid-7hAHMM5FaChpMv5-2ol6dRX31Qi-P9sbpTJ3AdwiwtMGEtwHgE3wghU7cd6SpbnD8I5HwDGk9YgDwyCdgC0TdkJ_I7S_vCE8QXXzIxWTBuaWOrDtYIgl_leBSS4=w2196-h1646-no?authuser=0)
